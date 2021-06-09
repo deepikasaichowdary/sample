@@ -1,1 +1,4 @@
+
 flask
+ibm_db
+ibm-cos-sdk
